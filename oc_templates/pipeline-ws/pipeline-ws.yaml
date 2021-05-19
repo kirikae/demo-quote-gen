@@ -67,7 +67,7 @@ spec:
     - name: git-clone
       params:
         - name: url
-          value: 'https://github.com/snowjet/demo-quote-gen.git'
+          value: 'https://github.com/kirikae/demo-quote-gen.git'
         - name: revision
           value: sql
         - name: submodules

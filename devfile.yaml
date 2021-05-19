@@ -4,7 +4,7 @@ metadata:
 projects:
   - name: quotegen-backend
     source:
-      location: 'https://github.com/snowjet/demo-quote-gen.git'
+      location: 'https://github.com/kirikae/demo-quote-gen.git'
       type: git
       branch: sql
 components:

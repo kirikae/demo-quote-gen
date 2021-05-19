@@ -11,7 +11,7 @@ spec:
   source:
     git:
       ref: master
-      uri: 'https://github.com/snowjet/demo-quote-gen.git'
+      uri: 'https://github.com/kirikae/demo-quote-gen.git'
     contextDir: quotegen
     type: Git
   strategy:
@@ -40,7 +40,7 @@ spec:
   source:
     git:
       ref: master
-      uri: 'https://github.com/snowjet/demo-quote-gen.git'
+      uri: 'https://github.com/kirikae/demo-quote-gen.git'
     contextDir: quotegen      
     type: Git
   strategy:
